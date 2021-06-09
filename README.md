@@ -4,4 +4,4 @@
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
 
 ## Data
-- Retrieved from Kaggle, [IOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps), [Android](https://www.kaggle.com/lava18/google-play-store-apps) 
+- Retrieved from Kaggle ([IOS](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps), [Android](https://www.kaggle.com/lava18/google-play-store-apps))
